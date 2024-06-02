@@ -1,0 +1,1 @@
+//banner component to connect the brand to all pages

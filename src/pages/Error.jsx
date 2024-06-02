@@ -1,0 +1,1 @@
+//error page to stop users from going to bad link address
